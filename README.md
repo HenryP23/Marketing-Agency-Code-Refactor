@@ -19,8 +19,7 @@ To provide an example of a clean code, and good SEO optimization.
 ## Authors
 Henry Parrish
 
-##Visual
-
+## Visual
 ![ScreenShot](webpageScreenshot.png)
 
 
